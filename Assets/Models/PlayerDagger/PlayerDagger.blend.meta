@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 4857329ece339c648a6e5d329712629a
+timeCreated: 1491803818
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Control
+    100006: Head
+    100008: Left_Dagger
+    100010: Left_Dagger_0
+    100012: Lower_Arm_L
+    100014: Lower_Arm_R
+    100016: Lower_Leg_L
+    100018: Lower_Leg_R
+    100020: //RootNode
+    100022: Right_Dagger
+    100024: Right_Dagger_0
+    100026: Sphere
+    100028: Sphere_002
+    100030: Sphere_003
+    100032: Sphere_MeshPart0
+    100034: Sphere_MeshPart1
+    100036: Stomach
+    100038: Upper_Arm_L
+    100040: Upper_Arm_R
+    100042: Upper_Leg_L
+    100044: Upper_Leg_R
+    400000: Armature
+    400002: Chest
+    400004: Control
+    400006: Head
+    400008: Left_Dagger
+    400010: Left_Dagger_0
+    400012: Lower_Arm_L
+    400014: Lower_Arm_R
+    400016: Lower_Leg_L
+    400018: Lower_Leg_R
+    400020: //RootNode
+    400022: Right_Dagger
+    400024: Right_Dagger_0
+    400026: Sphere
+    400028: Sphere_002
+    400030: Sphere_003
+    400032: Sphere_MeshPart0
+    400034: Sphere_MeshPart1
+    400036: Stomach
+    400038: Upper_Arm_L
+    400040: Upper_Arm_R
+    400042: Upper_Leg_L
+    400044: Upper_Leg_R
+    4300000: Sphere_MeshPart0
+    4300002: Sphere_MeshPart1
+    4300004: Sphere_003
+    4300006: Sphere_002
+    7400000: Default Take
+    7400002: Dagger_Fight
+    7400004: Dagger_Idle
+    7400006: Dagger_Run
+    7400008: Death
+    7400010: Dodge_Left_Strike
+    7400012: Dodge_Right_Strike
+    7400014: Final_Hit_Strike
+    7400016: Hit_Left_Strike
+    7400018: Hit_Right_Strike
+    9500000: //RootNode
+    13700000: Sphere_002
+    13700002: Sphere_003
+    13700004: Sphere_MeshPart0
+    13700006: Sphere_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

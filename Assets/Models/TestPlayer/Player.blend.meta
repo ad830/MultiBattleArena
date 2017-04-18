@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 199aba163eaa9af469e2ea255cc4257f
+timeCreated: 1487944210
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Book
+    100004: Book_0
+    100006: Chest
+    100008: Control
+    100010: Cube
+    100012: Hammer
+    100014: Hammer_0
+    100016: Hammer_001
+    100018: Head
+    100020: Left_Dagger
+    100022: Left_Dagger_0
+    100024: Lower_Arm_L
+    100026: Lower_Arm_R
+    100028: Lower_Leg_L
+    100030: Lower_Leg_R
+    100032: //RootNode
+    100034: Polearm
+    100036: Polearm_0
+    100038: Right_Dagger
+    100040: Right_Dagger_0
+    100042: Sphere
+    100044: Sphere_001
+    100046: Sphere_002
+    100048: Sphere_003
+    100050: Sphere_004
+    100052: Sphere_MeshPart0
+    100054: Sphere_MeshPart1
+    100056: Stomach
+    100058: Sword
+    100060: Sword_0
+    100062: Upper_Arm_L
+    100064: Upper_Arm_R
+    100066: Upper_Leg_L
+    100068: Upper_Leg_R
+    400000: Armature
+    400002: Book
+    400004: Book_0
+    400006: Chest
+    400008: Control
+    400010: Cube
+    400012: Hammer
+    400014: Hammer_0
+    400016: Hammer_001
+    400018: Head
+    400020: Left_Dagger
+    400022: Left_Dagger_0
+    400024: Lower_Arm_L
+    400026: Lower_Arm_R
+    400028: Lower_Leg_L
+    400030: Lower_Leg_R
+    400032: //RootNode
+    400034: Polearm
+    400036: Polearm_0
+    400038: Right_Dagger
+    400040: Right_Dagger_0
+    400042: Sphere
+    400044: Sphere_001
+    400046: Sphere_002
+    400048: Sphere_003
+    400050: Sphere_004
+    400052: Sphere_MeshPart0
+    400054: Sphere_MeshPart1
+    400056: Stomach
+    400058: Sword
+    400060: Sword_0
+    400062: Upper_Arm_L
+    400064: Upper_Arm_R
+    400066: Upper_Leg_L
+    400068: Upper_Leg_R
+    4300000: Sphere_004
+    4300002: Hammer_001
+    4300004: Sphere_003
+    4300006: Sphere_002
+    4300008: Cube
+    4300010: Sphere_001
+    4300012: Sphere_MeshPart0
+    4300014: Sphere_MeshPart1
+    7400000: Default Take
+    7400002: Book_Fight
+    7400004: Book_Idle
+    7400006: Book_Run
+    7400008: Dagger_Fight
+    7400010: Dagger_Idle
+    7400012: Dagger_Run
+    7400014: Death
+    7400016: Dodge
+    7400018: Dodge_Left_Strike
+    7400020: Dodge_Right_Strike
+    7400022: Final_Hit_Strike
+    7400024: Hammer_Fight
+    7400026: Hammer_Idle
+    7400028: Hammer_Run
+    7400030: Hit_Left_Strike
+    7400032: Hit_Right_Strike
+    7400034: Idle
+    7400036: Polearm_Fight
+    7400038: Polearm_Idle
+    7400040: Polearm_Run
+    7400042: Run
+    7400044: Sword_Fight
+    7400046: Sword_Idle
+    7400048: Sword_Run
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Hammer_001
+    13700004: Sphere_001
+    13700006: Sphere_002
+    13700008: Sphere_003
+    13700010: Sphere_004
+    13700012: Sphere_MeshPart0
+    13700014: Sphere_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
